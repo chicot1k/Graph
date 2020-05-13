@@ -1,0 +1,10 @@
+C:\Users\Chicot1k\source\repos\polynom\polynom\bin\Debug\polynom.exe.config
+C:\Users\Chicot1k\source\repos\polynom\polynom\bin\Debug\polynom.exe
+C:\Users\Chicot1k\source\repos\polynom\polynom\bin\Debug\polynom.pdb
+C:\Users\Chicot1k\source\repos\polynom\polynom\obj\Debug\polynom.csprojAssemblyReference.cache
+C:\Users\Chicot1k\source\repos\polynom\polynom\obj\Debug\polynom.Form1.resources
+C:\Users\Chicot1k\source\repos\polynom\polynom\obj\Debug\polynom.Properties.Resources.resources
+C:\Users\Chicot1k\source\repos\polynom\polynom\obj\Debug\polynom.csproj.GenerateResource.cache
+C:\Users\Chicot1k\source\repos\polynom\polynom\obj\Debug\polynom.csproj.CoreCompileInputs.cache
+C:\Users\Chicot1k\source\repos\polynom\polynom\obj\Debug\polynom.exe
+C:\Users\Chicot1k\source\repos\polynom\polynom\obj\Debug\polynom.pdb
